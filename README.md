@@ -1,6 +1,6 @@
 ### Nick Mai
 
-:office: [Higg Co](https://higg.com/)
+:office: [Worldly](https://worldly.io/)
 
 :octocat: [![years active](https://badges.pufler.dev/years/nmai)](https://github.com/nmai)
 
